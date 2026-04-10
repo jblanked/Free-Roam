@@ -1,5 +1,5 @@
 # Free Roam
-3D Open World Multiplayer Game for the Flipper Zero (Picoware support coming soon)
+A 3D Open World Multiplayer Game for the Flipper Zero, PicoCalc, and other embedded devices.
 
 ## Connect Online
 - Discord: https://discord.gg/5aN9qwkEc6
@@ -12,7 +12,7 @@
 - Third person camera
 - Dynamic map generation (for developers)
 - 3D sprites (humans, trees, etc.)
-- PVE Multiplayer - COMING SOON
+- PVE Multiplayer
 
 ## How To Play
 - Press the left button to turn the camera left
